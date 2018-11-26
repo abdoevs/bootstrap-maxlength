@@ -37,6 +37,11 @@ The indicator badge shows up on focusing on the element, and disappears when the
 * **maxlength.shown** is triggered when the indicator is displayed.
 * **maxlength.hidden** is triggered when the indicator is removed from view.
 
+## Install
+```
+npm install --save bootstrap-maxlength
+```
+
 ## Examples
 
 Basic implementation:
